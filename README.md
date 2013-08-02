@@ -14,10 +14,12 @@ How to link a change to Pivotal Tracker
 4. In the commit message, enter [Finishes #$ID$]. Don't forget the '#'!
 5. Push your changes to the repo.
 
-Note that the following verbs are also recognized by Pivotal Tracker:
-1. Delivers
-2. Fixes
-3. Completes
-4. Finishes
+Note that the following verbs are recognized by Pivotal Tracker:
+1. delivers
+2. fixes
+3. completes
+4. finishes .
+
+Capitalized or not should work.
 
 Happy coding.
